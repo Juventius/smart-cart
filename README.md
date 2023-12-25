@@ -2,7 +2,7 @@
 
 _part of AI for Learning and Optimization (AILO) Research Center at Telkom University, Bandung, Indonesia_
 
-This repo contains the code that is used to detect shopping items in a cart using Python OpenCV and YOLOv8 model. The model is trained using AILO RC's NVIDIA DGX A100 server.
+This repo contains the code that is used to detect shopping items in a cart using Python OpenCV and YOLOv8 model. The model is trained using approximately 1.300 Universal Product Code (UPC) data of various shopping items with the help of AILO RC's NVIDIA DGX A100 server.
 
 \*due to the limitation from GitHub, unfortunately, the trained model can not be uploaded to the repo\*
 
